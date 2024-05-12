@@ -37,9 +37,8 @@ In this tutorial, we observe various network traffic sources to and from Azure V
 </p>
 <p>
 <a href="https://github.com/joesimmonsIT/Wireshark/">Download Wireshark</a> <br /> <br />
-Click the above link for the tutorial to Download Wireshark prior to proceeding with this tutorial.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click the above link for the tutorial to Download Wireshark prior to proceeding with this tutorial. <br /> <br />
+We can notice the non-stop traffic in the picture above.<br /> <br />
 </p>
 <br />
 
