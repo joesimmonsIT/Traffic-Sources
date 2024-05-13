@@ -223,7 +223,10 @@ Go to Protocol and make sure "ICMP" is selected; a blue circle should appear nex
 <img src="https://i.imgur.com/2Pa0gne.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Action: Change the option to "Deny". <br /> <br />
+Priority: Change to "200". <br /> <br />
+Name: Change to "DenyICMPPingFromAnywhere". <br /> <br />
+Select "Add". <br /> <br />
 </p>
 <br />
 
