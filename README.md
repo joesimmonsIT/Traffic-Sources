@@ -214,7 +214,8 @@ Select "+ Add" to add a new inbound security rule to the VM2 Network Security Gr
 <img src="https://i.imgur.com/jFhLqIg.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Keep the current settings. <br /> <br />
+Go to Protocol and make sure "ICMP" is selected; a blue circle should appear next to the option. <br /> <br />
 </p>
 <br />
 
