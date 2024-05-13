@@ -321,7 +321,9 @@ Type "dhcp" in the search bar.
 <img src="https://i.imgur.com/WvJcRdP.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Return back to Powershell. <br /> <br />
+Type "ipconfig (press the space bar), /renew" and Press Enter. <br /> <br />
+Note the Private IP Address and the Subnet for VM1. <br /> <br />
 </p>
 <br />
 
