@@ -136,7 +136,7 @@ Notice the 4 traffic source results. <br /> <br />
 <img src="https://i.imgur.com/RVPRj11.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to Wireshark and in the search bar type "icmp" and Press Enter, to clear all the traffic.
 </p>
 <br />
 
