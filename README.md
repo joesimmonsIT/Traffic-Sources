@@ -358,7 +358,9 @@ Press Enter, to display "dns" traffic.
 <img src="https://i.imgur.com/r23g8yC.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Type "tcp.port==3389" and Press Enter to display the RDP Traffic. <br /> <br />
+The RDP Port number is 3389. <br /> <br />
+Congratulations you have completed this tutorial! <br /> <br />
 </p>
 <br />
 
