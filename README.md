@@ -144,7 +144,8 @@ Go back to Wireshark and in the search bar type "icmp" and Press Enter, to clear
 <img src="https://i.imgur.com/9NG41JI.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the green icon above the search bar to clear all the saving of previous traffic. <br /> <br />
+Select "Continue without saving". <br /> <br />
 </p>
 <br />
 
