@@ -171,7 +171,8 @@ Go to the Azure Portal: Portal.Azure.com
 <img src="https://i.imgur.com/V4dmOG6.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the search bar type "network security groups". <br /> <br />
+Select "Network security groups" from the search results. <br /> <br />
 </p>
 <br />
 
