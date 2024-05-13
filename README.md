@@ -331,7 +331,7 @@ Note the Private IP Address and the Subnet for VM1. <br /> <br />
 <img src="https://i.imgur.com/5i34FuL.png"/>
 </p>
 <p>
-Return baclk to Wireshark. <br /> <br />
+Return back to Wireshark. <br /> <br />
 Press Enter to display the "dhcp" traffic. <br /> <br />
 </p>
 <br />
