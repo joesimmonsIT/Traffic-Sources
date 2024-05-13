@@ -114,7 +114,11 @@ Copy the Private IP Address for VM2.
 <img src="https://i.imgur.com/ZOEhbOm.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Return back to Remote Desktop Connection. <br /> <br />
+Go to the Windows Pane (located at the bottom of the computer screen). <br /> <br />
+In the search bar type "Powershell". <br /> <br />
+Select "Windows Powershell ISE". <br /> <br />
+Click the search result or Press Enter to open the application. <br /> <br />
 </p>
 <br />
 
