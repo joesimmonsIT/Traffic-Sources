@@ -288,7 +288,7 @@ Go back to Wireshark and in the search bar type "ssh".
 <img src="https://i.imgur.com/YP9BFKf.png"/>
 </p>
 <p>
-Click the green icon above the search bar.
+Click the "green icon" above the search bar.
 </p>
 <br />
 
@@ -304,7 +304,7 @@ Select "Continue without Saving".
 <img src="https://i.imgur.com/VLno8JC.png"/>
 </p>
 <p>
-Press Enter, to display "ssh" traffic.
+Press "Enter", to display "ssh" traffic.
 </p>
 <br />
 
@@ -322,7 +322,7 @@ Type "dhcp" in the search bar.
 </p>
 <p>
 Return back to Powershell. <br /> <br />
-Type "ipconfig (press the space bar), /renew" and Press Enter. <br /> <br />
+Type "ipconfig (press the space bar), /renew" and Press "Enter". <br /> <br />
 Note the Private IP Address and the Subnet for VM1. <br /> <br />
 </p>
 <br />
@@ -332,7 +332,7 @@ Note the Private IP Address and the Subnet for VM1. <br /> <br />
 </p>
 <p>
 Return back to Wireshark. <br /> <br />
-Press Enter to display the "dhcp" traffic. <br /> <br />
+Press "Enter" to display the "dhcp" traffic. <br /> <br />
 </p>
 <br />
 
@@ -349,7 +349,7 @@ Type "dns" in the search bar.
 <img src="https://i.imgur.com/OQLEjph.png"/>
 </p>
 <p>
-Press Enter, to display "dns" traffic.
+Press "Enter", to display "dns" traffic.
 </p>
 <br />
 
@@ -358,7 +358,7 @@ Press Enter, to display "dns" traffic.
 <img src="https://i.imgur.com/r23g8yC.png"/>
 </p>
 <p>
-Type "tcp.port==3389" and Press Enter to display the RDP Traffic. <br /> <br />
+Type "tcp.port==3389" and Press "Enter" to display the RDP Traffic. <br /> <br />
 The RDP Port number is 3389. <br /> <br />
 Congratulations you have completed this tutorial! <br /> <br />
 </p>
