@@ -55,7 +55,7 @@ Go to the search bar and type "icmp". <br /> <br />
 <img src="https://i.imgur.com/9rtm3k8.png"/>
 </p>
 <p>
-Press Enter. <br /> <br />
+Press "Enter". <br /> <br />
 Notice all the traffic stops. <br /> <br />
 </p>
 <br />
@@ -64,7 +64,7 @@ Notice all the traffic stops. <br /> <br />
 <img src="https://i.imgur.com/BeZNUBQ.png"/>
 </p>
 <p>
-Go back to Azure: Portal.Azure.com.
+Go back to Azure: "Portal.Azure.com".
 </p>
 <br />
 
@@ -81,7 +81,7 @@ Select "Virtual Machines" from the search results. <br /> <br />
 <img src="https://i.imgur.com/fWucLIP.png"/>
 </p>
 <p>
-Select VM2.
+Select "VM2".
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Select VM2.
 <img src="https://i.imgur.com/ti1erkt.png"/>
 </p>
 <p>
-Collapse the Networking selection. <br /> <br />
+Collapse the "Networking" selection. <br /> <br />
 Select "Network settings". <br /> <br />
 </p>
 <br />
@@ -118,7 +118,7 @@ Return back to Remote Desktop Connection. <br /> <br />
 Go to the Windows Pane (located at the bottom of the computer screen). <br /> <br />
 In the search bar type "Powershell". <br /> <br />
 Select "Windows Powershell ISE". <br /> <br />
-Click the search result or Press Enter to open the application. <br /> <br />
+Click the search result or "Press Enter" to open the application. <br /> <br />
 </p>
 <br />
 
@@ -126,7 +126,7 @@ Click the search result or Press Enter to open the application. <br /> <br />
 <img src="https://i.imgur.com/igh0nn1.png"/>
 </p>
 <p>
-Type "ping, (press the space bar), and Paste the IP Address for VM2 (10.0.0.5), Press Enter. <br /> <br />
+Type "ping, (press the space bar), and Paste the IP Address for VM2 (10.0.0.5)", and Press "Enter". <br /> <br />
 Notice the 4 traffic source results. <br /> <br />
 </p>
 <br />
@@ -136,7 +136,7 @@ Notice the 4 traffic source results. <br /> <br />
 <img src="https://i.imgur.com/RVPRj11.png"/>
 </p>
 <p>
-Go back to Wireshark and in the search bar type "icmp" and Press Enter, to clear all the traffic.
+Go back to Wireshark and in the search bar type "icmp" and Press "Enter", to clear all the traffic.
 </p>
 <br />
 
@@ -144,7 +144,7 @@ Go back to Wireshark and in the search bar type "icmp" and Press Enter, to clear
 <img src="https://i.imgur.com/9NG41JI.png"/>
 </p>
 <p>
-Select the green icon above the search bar to clear all the saving of previous traffic. <br /> <br />
+Select the "green icon" above the search bar to clear all the saving of previous traffic. <br /> <br />
 Select "Continue without saving". <br /> <br />
 </p>
 <br />
@@ -154,7 +154,7 @@ Select "Continue without saving". <br /> <br />
 </p>
 <p>
 Return to Powershell. <br /> <br />
-Type "ping, (press the space bar), -, t" and Press Enter; this will send perpectual traffic to VM2. <br /> <br />
+Type "ping, (press the space bar), -, t" and Press "Enter"; this will send perpectual traffic to VM2. <br /> <br />
 </p>
 <br />
 
@@ -163,7 +163,7 @@ Type "ping, (press the space bar), -, t" and Press Enter; this will send perpect
 <img src="https://i.imgur.com/TNkuZHP.png"/>
 </p>
 <p>
-Go to the Azure Portal: Portal.Azure.com
+Go to the Azure Portal: "Portal.Azure.com"
 </p>
 <br />
 
@@ -180,7 +180,7 @@ Select "Network security groups" from the search results. <br /> <br />
 <img src="https://i.imgur.com/UEsGnI2.png"/>
 </p>
 <p>
-Select VM2-nsg.
+Select "VM2-nsg".
 </p>
 <br />
 
@@ -196,7 +196,7 @@ Take notice of the commands of the left side of the Home Page for the VM2 Networ
 <img src="https://i.imgur.com/zbGWwdF.png"/>
 </p>
 <p>
-Select Settings. <br /> <br />
+Select "Settings". <br /> <br />
 Collapse the Settings tab. <br /> <br />
 Select "Inbound security rules". <br /> <br />
 </p>
